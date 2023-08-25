@@ -1,5 +1,7 @@
 Hola, Mundo!
 
-Aquí ando fortaleciendo y aplicando todos las habilidades que he estado adquiriendo en el
+Aquí ando fortaleciendo y aplicando todos los conocimientos que he estado adquiriendo en el
 
 Curso Profesional de Git y GitHub
+
+Se volveran habilidades muy productivas.
