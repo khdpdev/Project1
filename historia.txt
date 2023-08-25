@@ -1,5 +1,5 @@
 Hola, Mundo!
 
-Aquí ando reforzando y aplicando todos los conocimientos que he estado adquiriendo en el
+Aquí ando reforzando y aplicando todos las habilidades que he estado adquiriendo en el
 
 Curso Profesional de Git y GitHub
