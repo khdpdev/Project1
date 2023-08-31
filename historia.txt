@@ -8,4 +8,6 @@ Curso Profesional de Git y GitHub
 
 Se volveran habilidades muy productivas.
 
-Practicando para continuar duro con mis clases..
+Practicando para continuar duro con mis clases...
+
+(Me faltó un punto)
