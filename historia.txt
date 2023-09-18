@@ -1,15 +1,5 @@
 Hola, Mundo!
 
-Es bonito usar Git, cambiar versiones, hacer commits y volver al pasado y regresar a la cabecera de la branch master. 
+Aquí ando reforzando y aplicando todos los conocimientos que he estado adquiriendo en 
 
-Estoy ejercitando y aplicando todos los conocimientos que he estado adquiriendo en el
-
-Curso Profesional de Git y GitHub 
-
-Se volveran habilidades muy productivas.
-
-Practicando para continuar duro con mis clases...
-
-(faltó un punto) Leonidas
-
-Estoy aprendiendo a usar el editor de Vim.
+Curso Profesional de Git y GitHub
